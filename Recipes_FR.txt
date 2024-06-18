@@ -1,42 +1,62 @@
 Recipe_FR = {
-	Recipe_Pack_4 = "Emballer un lot de 4",
-	Recipe_Unpack_4 = "Déballer un lot de 4",
-	Recipe_Pack_5 = "Emballer un lot de 5",
-	Recipe_Unpack_5 = "Déballer un lot de 5",
-	Recipe_Rope_5 = "Attacher un lot de 5 avec une corde",
-	Recipe_Unrope_5 = "Détacher un lot de 5 avec une corde",
-	Recipe_Pack_6 = "Emballer un lot de 6",
-	Recipe_Unpack_6 = "Déballer un lot de 6",
-	Recipe_Pack_8 = "Emballer un lot de 8",
-	Recipe_Unpack_8 = "Déballer un lot de 8",
-	Recipe_Pack_9 = "Emballer un lot de 9",
-	Recipe_Unpack_9 = "Déballer un lot de 9",
-	Recipe_Pack_10 = "Emballer un lot de 10",
-	Recipe_Unpack_10 = "Déballer un lot de 10",
-	Recipe_Rope_10 = "Attacher un lot de 10 avec une corde",
-	Recipe_Unrope_10 = "Détacher un lot de 10 avec une corde",
-	Recipe_Pack_12 = "Emballer un lot de 12",
-	Recipe_Unpack_12 = "Déballer un lot de 12",
-	Recipe_Pack_20 = "Emballer un lot de 20",
-	Recipe_Unpack_20 = "Déballer un lot de 20",
-	Recipe_Pack_24 = "Emballer un lot de 24",
-	Recipe_Unpack_24 = "Déballer un lot de 24",
-	Recipe_Pack_30 = "Emballer un lot de 30",
-	Recipe_Unpack_30 = "Déballer un lot de 30",
-	Recipe_Pack_50 = "Emballer un lot de 50",
-	Recipe_Unpack_50 = "Déballer un lot de 50",
-	Recipe_Pack_100 = "Emballer un lot de 100",
-	Recipe_Unpack_100 = "Déballer un lot de 100",
-	Recipe_Merge_and_Pack_4 = "Combiner et grouper un lot de 4",
-	Recipe_Merge_and_Pack_5 = "Combiner et grouper un lot de 5",
-	Recipe_Merge_and_Pack_6 = "Combiner et grouper un lot de 6",
-	Recipe_Merge_and_Pack_10 = "Combiner et grouper un lot de 10",
-	Recipe_Pack_Cigarettes = "Grouper les cigarettes",
-	Recipe_Unpack = "Déballer",
+
 	Recipe_Put_Together = "Réunir",
 	Recipe_Split_in_Two = "Scinder en deux",
 	Recipe_Split_in_Five = "Scinder en cinq",
+
+	Recipe_Pack_4 = "Emballer un lot de 4",
+	Recipe_Unpack_4 = "Déballer un lot de 4",
+	Recipe_Merge_and_Pack_4 = "Combiner et grouper un lot de 4",
+
+	Recipe_Pack_5 = "Emballer un lot de 5",
+	Recipe_Unpack_5 = "Déballer un lot de 5",
+	Recipe_Merge_and_Pack_5 = "Combiner et grouper un lot de 5",
+
+	Recipe_Pack_6 = "Emballer un lot de 6",
+	Recipe_Unpack_6 = "Déballer un lot de 6",
+	Recipe_Merge_and_Pack_6 = "Combiner et grouper un lot de 6",
+
+	Recipe_Pack_8 = "Emballer un lot de 8",
+	Recipe_Unpack_8 = "Déballer un lot de 8",
+
+	Recipe_Pack_9 = "Emballer un lot de 9",
+	Recipe_Unpack_9 = "Déballer un lot de 9",
+
+	Recipe_Pack_10 = "Emballer un lot de 10",
+	Recipe_Unpack_10 = "Déballer un lot de 10",
+	Recipe_Merge_and_Pack_10 = "Combiner et grouper un lot de 10",
+
+	Recipe_Pack_12 = "Emballer un lot de 12",
+	Recipe_Unpack_12 = "Déballer un lot de 12",
+
+	Recipe_Pack_20 = "Emballer un lot de 20",
+	Recipe_Unpack_20 = "Déballer un lot de 20",
+
+	Recipe_Pack_24 = "Emballer un lot de 24",
+	Recipe_Unpack_24 = "Déballer un lot de 24",
+
+	Recipe_Pack_30 = "Emballer un lot de 30",
+	Recipe_Unpack_30 = "Déballer un lot de 30",
+
+	Recipe_Pack_50 = "Emballer un lot de 50",
+	Recipe_Unpack_50 = "Déballer un lot de 50",
+
+	Recipe_Pack_100 = "Emballer un lot de 100",
+	Recipe_Unpack_100 = "Déballer un lot de 100",
+
+
+
+	Recipe_Rope_5 = "Attacher un lot de 5 avec une corde",
+	Recipe_Unrope_5 = "Détacher un lot de 5 avec une corde",
+
+	Recipe_Rope_10 = "Attacher un lot de 10 avec une corde",
+	Recipe_Unrope_10 = "Détacher un lot de 10 avec une corde",
+
+
+
 	Recipe_Fill_Pack_of_Empty_Water_Bottles = "Remplir le paquet de bouteilles vides",
+
+
 	Recipe_Pack_Carpentry_Skill_Books = "Emballer des livres de Menuiserie",
 	Recipe_Unpack_Carpentry_Skill_Books = "Déballer des livres de Menuiserie",
 	Recipe_Pack_Cooking_Skill_Books = "Emballer des livres de Cuisine",
@@ -59,4 +79,13 @@ Recipe_FR = {
 	Recipe_Unpack_Metalwork_Skill_Books = "Déballer des livres de Travail des métaux",
 	Recipe_Pack_Trapping_Skill_Books = "Emballer des livres de Piégeage",
 	Recipe_Unpack_Trapping_Skill_Books = "Déballer des livres de Piégeage",
+
+	Recipe_Pack_Cigarettes = "Grouper les cigarettes",
+	Recipe_Unpack = "Déballer",
+
+	Recipe_Change_to_Type_1 = "Changer en Type 1",
+	Recipe_Change_to_Type_2 = "Changer en Type 2",
+	Recipe_Change_to_Type_3 = "Changer en Type 3",
+	Recipe_Change_to_Type_4 = "Changer en Type 4",
+	Recipe_Make_Wooden_Container = "Fabriquer un conteneur en bois",
 }
